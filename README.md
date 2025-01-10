@@ -1,6 +1,7 @@
-
+To run this program, WebXR is needed.
+This program is being reuploaded to my main GitHub account as my school email was archived when I graduated. Not wanting to lose my work I moved them to a place I have access to.
 CSC 495 Fall 2022 Group Project
-Authors: Dillon Gillespie, Abdoul Barry, Hubert Liu
+Authors: Dillon Gillespie
 
 This project's main focus is being a shooting range with a selection of different weaponry. Our focus for the novel interaction technique is using the keyboard interaction to allow for the user to select options from a UI they pull up on their controller. The UI will allow them to swap between weaponry and change the scenery.
 
